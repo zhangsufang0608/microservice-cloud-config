@@ -42,7 +42,7 @@ mybatis:
 spring:
  profiles: prod 
  application:
-   name: microservice-product-config 
+   name: microservice-product-config-bus 
  datasource:
    type: com.alibaba.druid.pool.DruidDataSource
    driver-class-name: com.mysql.jdbc.Driver
